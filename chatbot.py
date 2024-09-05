@@ -41,10 +41,8 @@ def process_image(file_path):
             shape = 'Octagon'
         elif len(approx) == 9:
             shape = 'Nonagon'
-        elif len(approx) == 10:
-            shape = 'Decagon'
-        elif len(approx) == 11:
-            shape = 'Hendecagon'
+        else:
+            shape='Circle'
     return f"Detected Shape: {shape}"
 def display_image(file_path):
     try:
