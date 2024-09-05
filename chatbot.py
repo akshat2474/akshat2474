@@ -36,7 +36,7 @@ def process_image(file_path):
         elif len(approx) == 6:
             shape = 'Hexagon'
         elif len(approx) == 7:
-            shape = 'Septagon'
+            shape = 'Heptagon'
         elif len(approx) == 8:
             shape = 'Octagon'
         elif len(approx) == 9:
