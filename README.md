@@ -1,6 +1,5 @@
 # 💫 About Me:
 Hey, I am Akshat!<br><br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akshat-singh-48a03b312/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatsingh2474@gmail.com) 
 
