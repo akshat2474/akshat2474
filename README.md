@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hey, I am Akshat!<br><br>
+# [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=false&width=500&lines=Hey+there,+I'm+Akshat.)](https://github.com/akshat2474)
+<br><br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-singh-48a03b312/) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatsingh2474@gmail.com) 
