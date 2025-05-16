@@ -1,5 +1,7 @@
 # 💫 About Me:
- [![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=false&vCenter=false&width=500&lines=Hey+there,+I'm+Akshat.)](https://github.com/akshat2474)
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hello%2C+it's+Akshat;Student+Developer" alt="Developer"/>
+</a>
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-singh-48a03b312/) 
