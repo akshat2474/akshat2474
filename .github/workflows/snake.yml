@@ -10,6 +10,7 @@ on:
   push:
     branches:
       - main
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -22,13 +23,10 @@ jobs:
       - name: Generate GitHub Contributions Snake Animations
         uses: Platane/snk@v3
         with:
-          # GitHub username to generate the animation for
           github_user_name: ${{ github.repository_owner }}
-          # Define the output files and their configurations
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-snake.svg?color_snake=%2389CFF0
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%2389CFF0
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       # Step 3: Deploy the generated files to the 'output' branch
@@ -38,5 +36,4 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./dist
           publish_branch: output
-          # Optionally, you can set a custom commit message
           commit_message: "Update snake animation [skip ci]"
