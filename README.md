@@ -4,7 +4,7 @@
   <h1 style="font-size: 30px; margin: 0;">Hello, I'm Akshat</h1>
 </div>
   <!-- Animated Typing Roles -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1000&size=28&color=89CFF0&center=true&width=435&lines=Developer;Student&duration=950" alt="Student and Developer Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1000&size=28&color=89CFF0&center=true&width=435&lines=Developer;Student&duration=1100" alt="Student and Developer Typing"/>
 </div>
 
 <!-- Octocat + Connect Animation -->
