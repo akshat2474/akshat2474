@@ -1,28 +1,71 @@
-# 💫 About Me:
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4000&pause=500&color=89CFF0&width=435&lines=Hello%2C+it's+Akshat;Student;Developer" alt="Developer"/>
-</a>
- 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-singh-48a03b312/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akshatsingh2474@gmail.com) 
+<!-- Static Name + Typing Role Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1200&size=30&color=89CFF0&width=435&lines=Hello%2C+it's+Akshat+Singh;&center=true&repeat=false" alt="Hello, it's Akshat Singh (Static)"/><br>
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+  <!-- Animated Typing Roles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1000&size=28&color=89CFF0&center=true&width=435&lines=Student;Developer" alt="Student and Developer Typing"/>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
+<!-- Octocat + Connect Animation -->
+<div align="center">
+  <img src="octocat.gif" alt="Octocat" width="125">
+  <br>
+  <a href="https://www.linkedin.com/in/akshat-singh-48a03b312/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect" alt="Connect">
+  </a>
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akshat2474&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akshat2474&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshat2474&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- Tech Stack -->
+<div align="center">
+  <br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  <!-- Languages and Tools -->
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" alt="Firebase">
+  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras">
 
----
-[![](https://visitcount.itsvg.in/api?id=akshat2474&icon=0&color=0)](https://visitcount.itsvg.in)
+  <br>
+</div>
+
+<!-- GitHub Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akshat2474/akshat2474/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akshat2474/akshat2474/output/github-snake.svg" />
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/akshat2474/akshat2474/output/github-snake.svg" />
+  </picture>
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akshat2474&theme=dark&hide_border=false&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="GitHub Streak Stats">
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" />
+  </p>
+
+  <p>
+    &copy; 2025–present 
+    <a href="https://github.com/akshat2474" target="_blank">Akshat Singh</a>
+  </p>
+
+  <p>
+    <a href="https://github.com/akshat2474/akshat2474/blob/main/LICENSE">
+      <img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8" alt="License Badge">
+    </a>
+  </p>
+</div>
