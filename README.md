@@ -1,6 +1,6 @@
 <!-- Static Name + Typing Role Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1200&size=30&color=89CFF0&width=435&lines=Hello%2C+it's+Akshat+Singh;&center=true&repeat=false" alt="Hello, it's Akshat Singh (Static)"/><br>
+ <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1000&size=30&color=89CFF0&width=435&lines=Hello%2C+I'm+Akshat;&center=true&repeat=false" alt="Hello, I'm Akshat (Static)"/><br>
 
   <!-- Animated Typing Roles -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=1000&size=28&color=89CFF0&center=true&width=435&lines=Student;Developer" alt="Student and Developer Typing"/>
