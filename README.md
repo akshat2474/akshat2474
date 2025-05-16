@@ -38,15 +38,15 @@
   <br>
 </div>
 
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=akshat2474&theme=dark&hide_border=false&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="GitHub Streak Stats">
+</div>
+
 <!-- GitHub Snake Animation -->
 <div align="center">
  
   ![GitHub Contribution Snake](https://github.com/akshat2474/akshat2474/blob/output/snake-cool.svg)
-</div>
-
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=akshat2474&theme=dark&hide_border=false&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="GitHub Streak Stats">
 </div>
 
 <!-- Footer -->
