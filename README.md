@@ -18,7 +18,7 @@
   </a>
   <br><br>
   <!-- Portfolio Website Link -->
- <a href="https://akshatsingh-portfolio.netlify.app/" target="_blank">
+ <a href="https://akshat-portfolio-ten-kappa.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/🌟_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio">
   </a>
   <!-- LinkedIn Badge -->
